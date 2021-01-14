@@ -1,0 +1,1 @@
+The program solves the Closest Points problem. Read the input values (i.e., the point coordinates) as a series of coordinate value pairs, one per line, from a text file called points.txt. The points allow decimal coordinate values.
